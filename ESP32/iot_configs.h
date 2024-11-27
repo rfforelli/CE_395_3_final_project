@@ -6,7 +6,7 @@
 
 // Enter Your Wifi and Password
 #define IOT_CONFIG_WIFI_SSID "Ryans-iPhone"
-#define IOT_CONFIG_WIFI_PASSWORD "hellothere"
+#define IOT_CONFIG_WIFI_PASSWORD "<redacted>"
 
 
 // Azure IoT Hub
@@ -18,5 +18,5 @@
 // Azure IoT Hub Device Key (primary key)
 #define IOT_CONFIG_DEVICE_KEY "<redacted>"
 
-// Publish 1 message every 5 seconds
+// Publish 1 message every 15 seconds
 #define TELEMETRY_FREQUENCY_MILLISECS 15000
